@@ -1,0 +1,22 @@
+{
+  "name": "testing-with-jest",
+  "version": "1.0.0",
+  "description": "A Jest + npm lab session is part of a course at Malmö University (da395a).",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arvid-berndtsson/testing-with-jest.git"
+  },
+  "author": "Arvid Berndtsson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arvid-berndtsson/testing-with-jest/issues"
+  },
+  "homepage": "https://github.com/arvid-berndtsson/testing-with-jest#readme"
+}

@@ -36,5 +36,5 @@ describe('Clicking "Pusha till stacken"', () => {
 
 test("Page title should be 'Stack Application'", async () => {
   let title = await driver.getTitle();
-  expect(title).toEqual('Stack Application');
+  expect(title).toEqual("Stack Application");
 });
